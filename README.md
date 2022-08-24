@@ -1,7 +1,15 @@
 # text-balance
 Simple text wrapping helper
 
-![image](https://user-images.githubusercontent.com/2047645/186486979-504d8cc2-96b4-4d7f-8133-417a4d152431.png)
+# how it looks
+
+Without balance:
+
+![image](https://user-images.githubusercontent.com/2047645/186490535-cbae5135-2208-4cc8-adf5-f158e6257c14.png)
+
+With balance:
+
+![image](https://user-images.githubusercontent.com/2047645/186490633-2ffa7e98-4074-4c5e-96fb-92f3ac8395a3.png)
 
 # usage
 
