@@ -6,6 +6,36 @@ Simple text wrapping helper
 
 # usage
 
+HTML
+
+```html
+<!-- Single balanced text -->
+<div class="text-balance">
+    <p>Lorem ipsum dolor sit amet</p>
+</div>
+
+<!-- Balanced text group - Bootstrap columns example -->
+<div class="row text-balance-group">
+    <div class="col-4">
+        <div class="text-balance mx-auto">
+            <p>Lorem ipsum dolor sit amet</p>
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="text-balance mx-auto">
+            <p>Lorem ipsum</p>
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="text-balance mx-auto">
+            <p>Lorem ipsum dolor</p>
+        </div>
+    </div>
+</div>
+```
+
+JS
+
 ```js
 import {textBalance} from "./text-balance.js";
 
@@ -17,6 +47,8 @@ window.addEventListener('resize', function() {
     }, 100);
 });
 ```
+
+
 
 # demo
 
