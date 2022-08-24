@@ -53,3 +53,7 @@ window.addEventListener('resize', function() {
 # demo
 
 https://codepen.io/ArtZ91/pen/PoRgxPM
+
+# alternatives
+
+https://github.com/adobe/balance-text
