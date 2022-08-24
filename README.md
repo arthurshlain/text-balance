@@ -3,7 +3,6 @@ Simple text wrapping helper
 
 ![image](https://user-images.githubusercontent.com/2047645/186486979-504d8cc2-96b4-4d7f-8133-417a4d152431.png)
 
-
 # usage
 
 HTML
@@ -48,7 +47,9 @@ window.addEventListener('resize', function() {
 });
 ```
 
+# hints
 
+Use `&nbsp;` and `&shy;` for better results
 
 # demo
 
